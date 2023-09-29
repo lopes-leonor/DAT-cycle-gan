@@ -13,7 +13,7 @@ TEST_CSV = '/home/leonor/Code/DAT-cycle-gan/results/test_run/test_pet.csv'
 
 # Training
 GPUS = '1'
-EPOCHS = 3 # 200
+EPOCHS = 200
 BATCH_SIZE = 1
 IMG_SHAPE = (96, 112, 96, 1)
 LOSS_LIST = ['binary_crossentropy', 'binary_crossentropy', 'mae', 'mae', 'mae', 'mae']
