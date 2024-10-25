@@ -1,6 +1,18 @@
 # DAT-cycle-gan
 
-Code to generate DaTSCAN SPECT from CFT PET scans and vice-versa.
+Code for the paper: "Dopaminergic PET to SPECT Domain Adaptation: A Cycle GAN translation approach".
+
+
+Dopamine transporter imaging is routinely used in Parkinson's disease (PD) and atypical parkinsonian syndromes (APS) diagnosis. 
+While [11C]CFT PET is prevalent in Asia with a large APS database, Europe relies on [123I]FP-CIT SPECT with limited APS data. 
+Our aim was to develop a deep learning-based method to convert [11C]CFT PET images to [123I]FP-CIT SPECT images, 
+facilitating multicenter studies and overcoming data scarcity to promote Artificial Intelligence (AI) advancements.
+
+![Our Cycle GAN model](https://github.com/lopes-leonor/DAT-cycle-gan/blob/main/images/figure1.png)
+
+
+![Synthetic SPECT images](https://github.com/lopes-leonor/DAT-cycle-gan/blob/main/images/figure6.png)
+
 
 ## Usage
 
