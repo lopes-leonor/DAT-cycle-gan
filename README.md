@@ -10,6 +10,7 @@ facilitating multicenter studies and overcoming data scarcity to promote Artific
 
 ![Our Cycle GAN model](https://github.com/lopes-leonor/DAT-cycle-gan/blob/main/images/figure1.png)
 
+<img src="https://github.com/lopes-leonor/DAT-cycle-gan/blob/main/images/figure6.png" width="300" alt="Synthetic SPECT images">
 
 ![Synthetic SPECT images](https://github.com/lopes-leonor/DAT-cycle-gan/blob/main/images/figure6.png)
 
