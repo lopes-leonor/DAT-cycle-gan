@@ -10,7 +10,7 @@ facilitating multicenter studies and overcoming data scarcity to promote Artific
 
 <img src="https://github.com/lopes-leonor/DAT-cycle-gan/blob/main/images/figure1.png" width="800" alt="Cycle GAN model">
 Scheme of our Cycle GAN model<br>
-
+<br>
 <img src="https://github.com/lopes-leonor/DAT-cycle-gan/blob/main/images/figure6.png" width="800" alt="Synthetic SPECT images">
 Example of images of (a) normal controls and (b) Parkinson’s disease from real PET (upper row), real SPECT (middle row) and synthetic SPECT (bottom row). <br>
 
@@ -68,7 +68,9 @@ GEN_DISC_UPDATE - Defines discriminator training frequency relative to generator
 WEIGHTS_DIR - directory where model was saved to further test the model
 ```
 <br>
+
 2. Run main.py - to train the model in the images from TRAIN_PET_CSV and test in images from TEST_CSV:
+
 ```
 python3 main.py
 ```
