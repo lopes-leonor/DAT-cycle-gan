@@ -1,4 +1,5 @@
 # DAT-cycle-gan
+by Leonor Lopes
 
 Code for the paper: "Dopaminergic PET to SPECT Domain Adaptation: A Cycle GAN translation approach".
 
